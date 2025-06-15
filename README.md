@@ -27,23 +27,23 @@ The shell implements the following features:
 - Return status variable (`$?`)
 - Quoting rules (handling of `"` and `'`)
 - Signal handling (`ctrl-C`, `ctrl-D`, `ctrl-\`)
-- Proper memory and file descriptor management
+- Proper memory and file descriptor management  
 
 ## 🧠 Learning Outcomes
-Through this project, we learned:
-How shells interpret and execute commands
-How to manage processes with fork, execve, and wait
-File descriptor duplication and redirection with dup2
-Signal handling using signal and sigaction
-Parsing and managing environment variables
-Memory management and debugging
+Through this project, we learned:  
+How shells interpret and execute commands  
+How to manage processes with fork, execve, and wait  
+File descriptor duplication and redirection with dup2  
+Signal handling using signal and sigaction  
+Parsing and managing environment variables  
+Memory management and debugging  
 
 ## 🧪 Testing
-The shell has been tested with:
-Built-in and external commands
-Pipes and redirections combinations
-Quotes and environment variable expansion
-Edge cases (invalid syntax, missing files, permission errors)
+The shell has been tested with:  
+Built-in and external commands  
+Pipes and redirections combinations  
+Quotes and environment variable expansion  
+Edge cases (invalid syntax, missing files, permission errors)  
 
 ## 🎁 Bonus
 If you completed the bonus part, include what’s implemented here:
