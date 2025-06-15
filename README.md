@@ -45,7 +45,7 @@ Pipes and redirections combinations
 Quotes and environment variable expansion
 Edge cases (invalid syntax, missing files, permission errors)
 
-## 🎁 Bonus (if implemented)
+## 🎁 Bonus
 If you completed the bonus part, include what’s implemented here:
 - Logical operators (&&, ||)
 - Wildcard expansion (*)
